@@ -1,0 +1,30 @@
+<html lang="pl-PL">
+<head>
+<link rel="Stylesheet" type="text/css" href="style666.css" />
+<meta charset="utf-8">
+<META HTTP-EQUIV="content-type" CONTENT="text/html; CHARSET=iso-8859-2">
+</head>
+<body>
+<table width=95% border="1" align="center">
+<tr>
+<td width=18% align=left>
+<marquee bgcolor=red> Siepka </marquee>
+<p> Linki do zadań </p>
+
+  
+</td>
+<td align=center><iframe width=650 height=650 name="strony" src="start.html" border="0"></iframe>
+</td>
+<td width=18% align=left>
+<a href="start.html" target="strony">Start</a>
+<p> Linki do kodów zadań</p>
+
+
+    <br>
+  
+  
+</td>
+</tr>
+</table>
+</body>
+</html>
